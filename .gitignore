@@ -1,0 +1,15 @@
+# WordPress sensitive files
+wp-config.php
+
+# Uploads (large media files - optional, comment out if you want to include)
+# wp-content/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Node modules (if any)
+node_modules/
